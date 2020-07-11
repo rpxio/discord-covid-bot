@@ -108,7 +108,7 @@ client.on("message", async message => {
       });
   } else {
     console.log("bork");
-    message.channel.send("Fuck you, <@!106073131768119296>");
+    message.channel.send("Fuck you, <@!106073131768119296>.");
   }
 });
 
